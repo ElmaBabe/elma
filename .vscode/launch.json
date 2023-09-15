@@ -1,0 +1,56 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "MyProject",
+            "request": "launch",
+            "mainClass": "MyProject",
+            "projectName": "Java.Oop_74420c40"
+        },
+        {
+            "type": "java",
+            "name": "Circles",
+            "request": "launch",
+            "mainClass": "Circles",
+            "projectName": "Java.Oop_74420c40"
+        },
+        {
+            "type": "java",
+            "name": "Circle",
+            "request": "launch",
+            "mainClass": "Circle",
+            "projectName": "Java.Oop_74420c40"
+        },
+        {
+            "type": "java",
+            "name": "Mini",
+            "request": "launch",
+            "mainClass": "Mini",
+            "projectName": "Java.Oop_74420c40"
+        },
+        {
+            "type": "java",
+            "name": "Work",
+            "request": "launch",
+            "mainClass": "Work",
+            "projectName": "Java.Oop_74420c40"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "Java.Oop_74420c40"
+        },
+        {
+            "name": "Electron Main",
+            "program": "${workspaceFolder}/main.js",
+            "request": "launch",
+            "runtimeExecutable": "${workspaceFolder}/node_modules/.bin/electron",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "type": "node"
+        }
+    ]
+}
